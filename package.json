@@ -1,0 +1,26 @@
+{
+  "name": "profile2018",
+  "version": "1.0.0",
+  "description": "Personal profile website.",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Citizen32/Profile2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Citizen32/Profile2018/issues"
+  },
+  "homepage": "https://github.com/Citizen32/Profile2018#readme"
+}
